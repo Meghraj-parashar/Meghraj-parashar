@@ -2,14 +2,14 @@
 
 ###
 
-<img style="pointer-events: none;"  align="left" height="200" src="https://cdn.discordapp.com/avatars/935849927832109176/02f669ffe1ec29f6e34a512d9e42ec5d.png"  />
+<img style="pointer-events: none;"  align="left" height="170" src="https://cdn.discordapp.com/avatars/935849927832109176/02f669ffe1ec29f6e34a512d9e42ec5d.png"  />
 
 ###
 
 <p align="left">👋 Hi, I’m Meghraj-parshar<br>👀 I’m interested in WebDevelopment,MobileDevelopment, Linux.<br>🌱 I’m currently learning lots of new frameworks, know HTML CSS PHP, JS and Python.<br>💞️ I’m looking to collaborate on anything! Just send me a message!<br>📫 How to reach me:<a href="https://meghraj-parashar.github.io/portfolio/"> Portfolio</a><br>
 📫Email : <a href="https://meghraj-parashar.github.io/portfolio/">meghrajparashar@gmail.com</a>
 </p>
-
+<br>
 
 ###
 
