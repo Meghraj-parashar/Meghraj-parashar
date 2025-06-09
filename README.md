@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Meghraj-parashar and I'm a fullstack dev</h2>
+<h2 align="left">Hi 👋! I'm Meghraj-parashar and I'm learning fullstack dev</h2>
 
 ###
 
