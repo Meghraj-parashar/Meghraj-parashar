@@ -13,50 +13,6 @@
 
 ###
 
-<div align="left">
-  <a><img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="30" alt="amazonwebservices logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://skillicons.dev/icons?i=threejs" height="30" alt="threejs logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  /></a>
-  <img   width="12" />
-  <a><img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  /></a>
-</div>
-
 ###
 
 <div align="center">
