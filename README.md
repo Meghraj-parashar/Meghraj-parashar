@@ -7,7 +7,7 @@
 ###
 
 <p align="left">👋 Hi, I’m Meghraj-parshar<br>👀 I’m interested in WebDevelopment,MobileDevelopment, Linux.<br>🌱 I’m currently learning lots of new frameworks, know HTML CSS PHP, JS and Python.<br>💞️ I’m looking to collaborate on anything! Just send me a message!<br>📫 How to reach me:<a href="https://meghraj-parashar.github.io/portfolio/"> Portfolio</a><br>
-📫Email : <a href="https://meghraj-parashar.github.io/portfolio/">meghrajparashar@gmail.com</a>
+📫Email : <a href="Meghrajparashar@gmail.com">meghrajparashar@gmail.com</a>
 </p>
 <br>
 
@@ -103,11 +103,3 @@
 <div align="center">
 
   ###
-<!--   <a href="https://open.spotify.com/user/Meghrajparashar">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Meghrajparashar&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div> -->
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pidkckedq4jn59df9yuofavdx&unique={true|1|on|yes})
-
-###
